@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <h1>TESTING GITHUB DEPLOY</h1>
+  <h1>TESTING GITHUB DEPLOY V2</h1>
 </template>
 
 <script>
