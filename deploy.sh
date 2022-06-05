@@ -7,6 +7,7 @@ npm run build
 
 cd dist
 
+ssh -vT git@github.com
 git config --global user.email "iamwillyork@outlook.com"
 git config --global user.name "Will York"
 git init
